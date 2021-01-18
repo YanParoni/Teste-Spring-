@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: yan
+Build-Jdk: 11.0.9
+Implementation-Title: forum
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.alura
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/forum
+Created-By: Maven Integration for Eclipse
+
